@@ -24,7 +24,7 @@ export const FirstPage = styled.div`
 
   .coffee {
     position: absolute;
-    top: 54%;
+    top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
   }
