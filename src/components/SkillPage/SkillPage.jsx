@@ -48,7 +48,7 @@ const SkillPage = () => {
             <li className="title">Experience</li>
             <ul className="sub2">
               <li>
-                이젠아카데미 부트캠프 UXUI/프론트엔드 과정
+                이젠아카데미 부트캠프 UX/UI 프론트엔드 과정
                 <span>2025.03 - 2025.10</span>
               </li>
               <li>
