@@ -122,11 +122,11 @@ const ProfilePage = () => {
           <h3>Profile</h3>
           <div className="typing-box">
             <div ref={typingRef1} className="typing-demo">
-              {/* 생각을 이미지로, 이미지를 메시지로  */}
-              깜빡, 3초 안에
+              생각을 이미지로, 이미지를 메시지로
             </div>
             <div ref={typingRef2} className="typing-demo2">
-              눈길을 사로잡는 <strong>디자이너 강미선</strong> 입니다.
+              메세지를 명확하게 전달하는 <strong>디자이너 강미선</strong>{' '}
+              입니다.
             </div>
             <div className="circle" ref={circleRef}>
               <img src="/images/Profile-image/circle.png" alt="" />
